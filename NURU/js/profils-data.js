@@ -5,8 +5,8 @@ const profils = {
     role: "Informaticien & Inventeur",
     badge: "Informaticien & Inventeur",
     image: "assets/images/Philip Emeagwali.jpg",
-    image2: "assets/images/Philip Emeagwali.jpg",
-    image3: "assets/images/Philip Emeagwali.jpg",
+    image2: "assets/images/Philip Emeagwali_1.jpg",
+    image3: "assets/images/Philip Emeagwali_2.jpg",
     histoire: `🌍 Son Histoire : Du Nigeria aux sommets du calcul mondial
 Né en 1954 à Akure, au Nigeria, Philip Emeagwali a vu son éducation interrompue par la guerre civile du Biafra. À seulement 14 ans, il est enrôlé dans l'armée biafraise. Malgré le chaos de la guerre, il continue d'étudier en autodidacte.
 
